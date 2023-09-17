@@ -1,6 +1,6 @@
 # DSTRCT_project
 
-**************WEB-APP SAMPLE*************************
+                              WEB-APP SAMPLE
 
 A one-page web application for submitting and storing news articles using React.js and Firebase.
 
@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 
 
 
-********************MOBILE APPLICATION SAMPLE**************************
+                           MOBILE APPLICATION SAMPLE
 
 # News Mobile App
 
