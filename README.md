@@ -2,6 +2,8 @@
 
                               WEB-APP SAMPLE
 
+# Articles Form Web-App
+
 A one-page web application for submitting and storing news articles using React.js and Firebase.
 
 ## Features
@@ -30,7 +32,7 @@ To run this project locally, follow these steps:
 
                            MOBILE APPLICATION SAMPLE
 
-# News Mobile App
+# Articles Mobile App
 
 A mobile application for retrieving and displaying news articles from a Firestore database using React Native and Firebase.
 
